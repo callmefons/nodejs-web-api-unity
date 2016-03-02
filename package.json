@@ -1,0 +1,19 @@
+{
+  "name": "web_api",
+  "version": "1.0.0",
+  "description": "Node JS Web API with Unity 5.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webapi"
+  ],
+  "author": "Tittaya Mairittha <callmefons@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "parse": "^1.6.14"
+  }
+}

@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{2E6285CA-EFA4-831D-3D3F-F0FE58E9FE61}") = "Node Web API", "Assembly-CSharp.csproj", "{90CC9F17-68C6-F196-DFAF-509D7AD8910C}"
+EndProject
+Project("{2E6285CA-EFA4-831D-3D3F-F0FE58E9FE61}") = "Node Web API", "Assembly-CSharp-Editor.csproj", "{327542FB-B5D2-5B48-32F1-694A6C8649CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90CC9F17-68C6-F196-DFAF-509D7AD8910C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90CC9F17-68C6-F196-DFAF-509D7AD8910C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90CC9F17-68C6-F196-DFAF-509D7AD8910C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90CC9F17-68C6-F196-DFAF-509D7AD8910C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{327542FB-B5D2-5B48-32F1-694A6C8649CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{327542FB-B5D2-5B48-32F1-694A6C8649CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{327542FB-B5D2-5B48-32F1-694A6C8649CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{327542FB-B5D2-5B48-32F1-694A6C8649CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
