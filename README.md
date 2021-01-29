@@ -1,5 +1,6 @@
-## Node JS Web API with Unity 5.3
-This just the basics of building a game that allows connecting and usage of REST endpoints. I've used a framework like express to create a Node Server and Parse SDK with Unity
+# nodejs-web-api-unity
+
+Create a Node server and Parse SDK with Unity
 
 ![sample](sample1.png)
 ![sample](sample2.png)
